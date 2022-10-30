@@ -1,0 +1,2842 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DxDiag>
+	<SystemInformation>
+		<Time>10/28/2022, 23:11:05</Time>
+		<MachineName>ARM-DEV-WINDOWS</MachineName>
+		<MachineId>{redacted}</MachineId>
+		<OperatingSystem>Windows 11 Pro 64-bit (10.0, Build 22621) (22621.ni_release.220506-1250)</OperatingSystem>
+		<Language>English (Regional Setting: English)</Language>
+		<SystemManufacturer>Microsoft Corporation</SystemManufacturer>
+		<SystemModel>Windows Dev Kit 2023</SystemModel>
+		<BIOS>7.31.139</BIOS>
+		<FirmwareType>UEFI</FirmwareType>
+		<Processor>Snapdragon Compute Platform (8 CPUs), ~3.0GHz</Processor>
+		<Memory>32768MB RAM</Memory>
+		<AvaliableOSMem>32164MB RAM</AvaliableOSMem>
+		<PageFile>10274MB used, 26754MB available</PageFile>
+		<WindowsDir>C:\Windows</WindowsDir>
+		<DirectXVersion>DirectX 12</DirectXVersion>
+		<DXSetupParameters>Not found</DXSetupParameters>
+		<UserDPISettings>96 DPI (100 percent)</UserDPISettings>
+		<SystemDPISettings>96 DPI (100 percent)</SystemDPISettings>
+		<DWMDPIScaling>Disabled</DWMDPIScaling>
+		<DxDiagVersion>10.00.22621.0755</DxDiagVersion>
+		<DxDiagUnicode>1</DxDiagUnicode>
+		<DxDiag64Bit>1</DxDiag64Bit>
+		<Miracast>Available, with HDCP</Miracast>
+		<MSHybrid>Not Supported</MSHybrid>
+		<DirectXDatabaseVersion>1.4.3</DirectXDatabaseVersion>
+	</SystemInformation>
+	<DxDiagNotes>
+		<DisplayTab>No problems found.</DisplayTab>
+		<SoundTab>No problems found.</SoundTab>
+		<SoundTab>No problems found.</SoundTab>
+		<InputTab>No problems found.</InputTab>
+	</DxDiagNotes>
+	<DirectXDebugLevels>
+		<Direct3D>
+			<Current>0</Current>
+			<Max>4</Max>
+			<Runtime>n/a</Runtime>
+		</Direct3D>
+		<DirectDraw>
+			<Current>0</Current>
+			<Max>4</Max>
+			<Runtime>retail</Runtime>
+		</DirectDraw>
+		<DirectInput>
+			<Current>0</Current>
+			<Max>5</Max>
+			<Runtime>n/a</Runtime>
+		</DirectInput>
+		<DirectMusic>
+			<Current>0</Current>
+			<Max>5</Max>
+			<Runtime>n/a</Runtime>
+		</DirectMusic>
+		<DirectPlay>
+			<Current>0</Current>
+			<Max>9</Max>
+			<Runtime>retail</Runtime>
+		</DirectPlay>
+		<DirectSound>
+			<Current>0</Current>
+			<Max>5</Max>
+			<Runtime>retail</Runtime>
+		</DirectSound>
+		<DirectShow>
+			<Current>0</Current>
+			<Max>6</Max>
+			<Runtime>retail</Runtime>
+		</DirectShow>
+	</DirectXDebugLevels>
+	<DisplayDevices>
+		<DisplayDevice>
+			<CardName>Qualcomm(R) Adreno(TM) 8cx Gen 3</CardName>
+			<Manufacturer>Qualcomm Incorporated</Manufacturer>
+			<ChipType>Adreno 690</ChipType>
+			<DACType>InternalDAC</DACType>
+			<DeviceType>Full Device (POST)</DeviceType>
+			<DeviceKey>Enum\ACPI\VEN_QCOM&amp;DEV_0636&amp;SUBSYS_MSWW8280&amp;REV_1823</DeviceKey>
+			<DeviceStatus>0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] </DeviceStatus>
+			<DeviceProblemCode>No Problem</DeviceProblemCode>
+			<DriverProblemCode>Unknown</DriverProblemCode>
+			<DisplayMemory>16082 MB</DisplayMemory>
+			<DedicatedMemory>0 MB</DedicatedMemory>
+			<SharedMemory>16082 MB</SharedMemory>
+			<CurrentMode>5120 x 1440 (32 bit) (70Hz)</CurrentMode>
+			<HDRSupport>Not Supported</HDRSupport>
+			<Topology>Internal</Topology>
+			<ColorSpace>DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709</ColorSpace>
+			<ColorPrimaries>Red(0.639648,0.330078), Green(0.299805,0.599609), Blue(0.149414,0.059570), White Point(0.312500,0.329102)</ColorPrimaries>
+			<Luminance>Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000</Luminance>
+			<MonitorName>Generic PnP Monitor</MonitorName>
+			<MonitorModel>PHL 499P9</MonitorModel>
+			<MonitorId>PHL092A</MonitorId>
+			<NativeMode>3840 x 1080(p) (59.968Hz)</NativeMode>
+			<OutputType>Displayport External</OutputType>
+			<Eotf2084Supported>0</Eotf2084Supported>
+			<BT2020YCC>0</BT2020YCC>
+			<BT2020RGB>0</BT2020RGB>
+			<AdvancedColorEnabled>0</AdvancedColorEnabled>
+			<AdvancedColorSupported>0</AdvancedColorSupported>
+			<bCheckedMonitorCapabilities>1</bCheckedMonitorCapabilities>
+			<PixelFormat>DISPLAYCONFIG_PIXELFORMAT_32BPP</PixelFormat>
+			<MonitorMaxRes>Unknown</MonitorMaxRes>
+			<DriverName>&lt;&gt;,C:\Windows\System32\DriverStore\FileRepository\qcdx8280.inf_arm64_2b01179eec6f25c2\qcdx11arm64xum8280.dll,C:\Windows\System32\DriverStore\FileRepository\qcdx8280.inf_arm64_2b01179eec6f25c2\qcdx11arm64xum8280.dll,C:\Windows\System32\DriverStore\FileRepository\qcdx8280.inf_arm64_2b01179eec6f25c2\qcdx12arm64xum8280.dll</DriverName>
+			<DriverFileVersion>30.00.3540.7500</DriverFileVersion>
+			<DriverVersion>30.0.3542.2200</DriverVersion>
+			<DriverLanguage>English</DriverLanguage>
+			<DDIVersion>12</DDIVersion>
+			<FeatureLevels>11_1,11_0,10_1,10_0,9_3,9_2,9_1</FeatureLevels>
+			<DriverModel>WDDM 3.0</DriverModel>
+			<DriverBeta>0</DriverBeta>
+			<DriverDebug>0</DriverDebug>
+			<DriverDate>25/07/2022 01:00:00</DriverDate>
+			<DriverSize>7414672</DriverSize>
+			<DriverWHQLLogo>n/a</DriverWHQLLogo>
+			<WHQLDateStamp>n/a</WHQLDateStamp>
+			<VDD>unknown</VDD>
+			<MiniVDD>unknown</MiniVDD>
+			<MiniVDDDate>Unknown</MiniVDDDate>
+			<MiniVDDSize>0</MiniVDDSize>
+			<DeviceIdentifier>{redacted}</DeviceIdentifier>
+			<VendorID>0x4D4F4351</VendorID>
+			<DeviceID>0x36333630</DeviceID>
+			<SubSysID>0x30383238</SubSysID>
+			<RevisionID>0x1823</RevisionID>
+			<DriverNodeStrongName>oem183.inf:e1a2240ef7296121:QCDX_Inst_Base.NT:30.0.3542.2200:ACPI\VEN_QCOM&amp;DEV_0636&amp;REV_1823</DriverNodeStrongName>
+			<RankOfInstalledDriver>00D12000</RankOfInstalledDriver>
+			<DXVAModes></DXVAModes>
+			<DXVA2Modes>DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  DXVA2_ModeVP9_VLD_Profile0  DXVA2_ModeVP9_VLD_10bit_Profile2  {129F7B40-5C5B-48E5-8178-48C0CEA05A90}  {886348BD-B400-4378-A5AE-654ADC0947DC}  {BDB6AC4F-8D9C-44F7-9731-52761C4924A9}  </DXVA2Modes>
+			<GraphicsPreemption>DMA</GraphicsPreemption>
+			<ComputePreemption>DMA</ComputePreemption>
+			<Miracast>Not Supported by Graphics driver</Miracast>
+			<DetachableGPU>No</DetachableGPU>
+			<HybridGraphicsGPUType>Not Supported</HybridGraphicsGPUType>
+			<PowerManagementPStates>Not Supported</PowerManagementPStates>
+			<VirtualGPUSupport>Paravirtualization </VirtualGPUSupport>
+			<BlockList>No Blocks</BlockList>
+			<DriverCatalogAttributes>Universal:True Declarative:True </DriverCatalogAttributes>
+			<MPOMaxPlanes>8</MPOMaxPlanes>
+			<MPOCaps>VERTICAL_FLIP,HORIZONTAL_FLIP,RGB,YUV,STRETCH_YUV,STRETCH_RGB,HDR (MPO3)</MPOCaps>
+			<MPOStretch>20.000X - 0.250X</MPOStretch>
+			<MPOMediaHints>resizing, colorspace Conversion </MPOMediaHints>
+			<MPOFormats>NV12,P010,R16G16B16A16_FLOAT,R8G8B8A8_UNORM,B8G8R8A8_UNORM</MPOFormats>
+			<PanelFitterCaps></PanelFitterCaps>
+			<PanelFitterStretch>0.000X - 0.000X</PanelFitterStretch>
+			<HardwareSchedulingAttributes>DriverSupportState:AlwaysOff Enabled:False </HardwareSchedulingAttributes>
+			<DisplayableSupport>Not Supported </DisplayableSupport>
+			<DXVADeinterlaceCaps>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>YUY2</D3DInputFormat>
+					<D3DOutputFormat>YUY2</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>YUY2</D3DInputFormat>
+					<D3DOutputFormat>YUY2</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>UYVY</D3DInputFormat>
+					<D3DOutputFormat>UYVY</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>UYVY</D3DInputFormat>
+					<D3DOutputFormat>UYVY</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>YV12</D3DInputFormat>
+					<D3DOutputFormat>0x32315659</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>YV12</D3DInputFormat>
+					<D3DOutputFormat>0x32315659</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>NV12</D3DInputFormat>
+					<D3DOutputFormat>0x3231564e</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>NV12</D3DInputFormat>
+					<D3DOutputFormat>0x3231564e</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>IMC1</D3DInputFormat>
+					<D3DOutputFormat>0x31434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>IMC1</D3DInputFormat>
+					<D3DOutputFormat>0x31434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>IMC2</D3DInputFormat>
+					<D3DOutputFormat>0x32434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>IMC2</D3DInputFormat>
+					<D3DOutputFormat>0x32434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>IMC3</D3DInputFormat>
+					<D3DOutputFormat>0x33434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>IMC3</D3DInputFormat>
+					<D3DOutputFormat>0x33434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>IMC4</D3DInputFormat>
+					<D3DOutputFormat>0x34434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>IMC4</D3DInputFormat>
+					<D3DOutputFormat>0x34434d49</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>S340</D3DInputFormat>
+					<D3DOutputFormat>0x30343353</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>S340</D3DInputFormat>
+					<D3DOutputFormat>0x30343353</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}</GUID>
+					<D3DInputFormat>S342</D3DInputFormat>
+					<D3DOutputFormat>0x32343353</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+				<DXVADeinterlaceCap>
+					<GUID>{335AA36E-7884-43A4-9C91-7F87FAF3E37E}</GUID>
+					<D3DInputFormat>S342</D3DInputFormat>
+					<D3DOutputFormat>0x32343353</D3DOutputFormat>
+					<Caps>VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBLineReplicate </Caps>
+					<NumPreviousOutputFrames>0</NumPreviousOutputFrames>
+					<NumForwardRefSamples>0</NumForwardRefSamples>
+					<NumBackwardRefSamples>0</NumBackwardRefSamples>
+				</DXVADeinterlaceCap>
+			</DXVADeinterlaceCaps>
+			<D3D9Overlay>Not Supported</D3D9Overlay>
+			<DXVAHD>Supported</DXVAHD>
+			<DDrawStatus>Enabled</DDrawStatus>
+			<D3DStatus>Enabled</D3DStatus>
+			<AGPStatus>Enabled</AGPStatus>
+		</DisplayDevice>
+	</DisplayDevices>
+	<DirectSound>
+		<SoundDevices>
+			<SoundDevice>
+				<Description>PHL 499P9 (Qualcomm(R) Aqstic(TM) Audio Adapter Device)</Description>
+				<HardwareID>AUCD\VEN_QCOM&amp;DEV_0629&amp;SUBSYS_MSHW0276</HardwareID>
+				<ManufacturerID>N/A</ManufacturerID>
+				<ProductID>N/A</ProductID>
+				<Type>N/A</Type>
+				<DriverName>qcaudminiport8280.sys</DriverName>
+				<DriverVersion>1.0.3564.4300</DriverVersion>
+				<DriverLanguage>English</DriverLanguage>
+				<DriverBeta>0</DriverBeta>
+				<DriverDebug>0</DriverDebug>
+				<DriverWHQLLogo>n/a</DriverWHQLLogo>
+				<DriverDate>26/08/2022 01:00:00</DriverDate>
+				<DriverSize>645232</DriverSize>
+				<OtherFiles></OtherFiles>
+				<DriverProvider>Qualcomm Technologies, Inc.</DriverProvider>
+				<HwAccelLevel>Emulation Only</HwAccelLevel>
+				<DefaultSoundPlayback>0</DefaultSoundPlayback>
+				<DefaultVoicePlayback>0</DefaultVoicePlayback>
+				<VoiceManager>0</VoiceManager>
+				<EAX20Listener>0</EAX20Listener>
+				<EAX20Source>0</EAX20Source>
+				<I3DL2Listener>0</I3DL2Listener>
+				<I3DL2Source>0</I3DL2Source>
+				<ZoomFX>0</ZoomFX>
+				<Flags>0</Flags>
+				<MinSecondarySampleRate>0</MinSecondarySampleRate>
+				<MaxSecondarySampleRate>0</MaxSecondarySampleRate>
+				<PrimaryBuffers>0</PrimaryBuffers>
+				<MaxHwMixingAllBuffers>0</MaxHwMixingAllBuffers>
+				<MaxHwMixingStaticBuffers>0</MaxHwMixingStaticBuffers>
+				<MaxHwMixingStreamingBuffers>0</MaxHwMixingStreamingBuffers>
+				<FreeHwMixingAllBuffers>0</FreeHwMixingAllBuffers>
+				<FreeHwMixingStaticBuffers>0</FreeHwMixingStaticBuffers>
+				<FreeHwMixingStreamingBuffers>0</FreeHwMixingStreamingBuffers>
+				<MaxHw3DAllBuffers>0</MaxHw3DAllBuffers>
+				<MaxHw3DStaticBuffers>0</MaxHw3DStaticBuffers>
+				<MaxHw3DStreamingBuffers>0</MaxHw3DStreamingBuffers>
+				<FreeHw3DAllBuffers>0</FreeHw3DAllBuffers>
+				<FreeHw3DStaticBuffers>0</FreeHw3DStaticBuffers>
+				<FreeHw3DStreamingBuffers>0</FreeHw3DStreamingBuffers>
+				<TotalHwMemBytes>0</TotalHwMemBytes>
+				<FreeHwMemBytes>0</FreeHwMemBytes>
+				<MaxContigFreeHwMemBytes>0</MaxContigFreeHwMemBytes>
+				<UnlockTransferRateHwBuffers>0</UnlockTransferRateHwBuffers>
+				<PlayCPUOverheadSwBuffers>0</PlayCPUOverheadSwBuffers>
+			</SoundDevice>
+			<SoundDevice>
+				<Description>Speakers (AT2005USB)</Description>
+				<HardwareID>USB\VID_0909&amp;PID_001B&amp;REV_0100&amp;MI_00</HardwareID>
+				<ManufacturerID>N/A</ManufacturerID>
+				<ProductID>N/A</ProductID>
+				<Type>N/A</Type>
+				<DriverName>USBAUDIO.sys</DriverName>
+				<DriverVersion>10.0.22621.608</DriverVersion>
+				<DriverLanguage>English</DriverLanguage>
+				<DriverBeta>0</DriverBeta>
+				<DriverDebug>0</DriverDebug>
+				<DriverWHQLLogo>n/a</DriverWHQLLogo>
+				<DriverDate>27/09/2022 01:00:00</DriverDate>
+				<DriverSize>235008</DriverSize>
+				<OtherFiles></OtherFiles>
+				<DriverProvider>Microsoft</DriverProvider>
+				<HwAccelLevel>Emulation Only</HwAccelLevel>
+				<DefaultSoundPlayback>1</DefaultSoundPlayback>
+				<DefaultVoicePlayback>1</DefaultVoicePlayback>
+				<VoiceManager>0</VoiceManager>
+				<EAX20Listener>0</EAX20Listener>
+				<EAX20Source>0</EAX20Source>
+				<I3DL2Listener>0</I3DL2Listener>
+				<I3DL2Source>0</I3DL2Source>
+				<ZoomFX>0</ZoomFX>
+				<Flags>0</Flags>
+				<MinSecondarySampleRate>0</MinSecondarySampleRate>
+				<MaxSecondarySampleRate>0</MaxSecondarySampleRate>
+				<PrimaryBuffers>0</PrimaryBuffers>
+				<MaxHwMixingAllBuffers>0</MaxHwMixingAllBuffers>
+				<MaxHwMixingStaticBuffers>0</MaxHwMixingStaticBuffers>
+				<MaxHwMixingStreamingBuffers>0</MaxHwMixingStreamingBuffers>
+				<FreeHwMixingAllBuffers>0</FreeHwMixingAllBuffers>
+				<FreeHwMixingStaticBuffers>0</FreeHwMixingStaticBuffers>
+				<FreeHwMixingStreamingBuffers>0</FreeHwMixingStreamingBuffers>
+				<MaxHw3DAllBuffers>0</MaxHw3DAllBuffers>
+				<MaxHw3DStaticBuffers>0</MaxHw3DStaticBuffers>
+				<MaxHw3DStreamingBuffers>0</MaxHw3DStreamingBuffers>
+				<FreeHw3DAllBuffers>0</FreeHw3DAllBuffers>
+				<FreeHw3DStaticBuffers>0</FreeHw3DStaticBuffers>
+				<FreeHw3DStreamingBuffers>0</FreeHw3DStreamingBuffers>
+				<TotalHwMemBytes>0</TotalHwMemBytes>
+				<FreeHwMemBytes>0</FreeHwMemBytes>
+				<MaxContigFreeHwMemBytes>0</MaxContigFreeHwMemBytes>
+				<UnlockTransferRateHwBuffers>0</UnlockTransferRateHwBuffers>
+				<PlayCPUOverheadSwBuffers>0</PlayCPUOverheadSwBuffers>
+			</SoundDevice>
+		</SoundDevices>
+		<SoundCaptureDevices>
+			<SoundCaptureDevice>
+				<Description>Microphone (AT2005USB)</Description>
+				<DriverName>USBAUDIO.sys</DriverName>
+				<DriverVersion>10.0.22621.608</DriverVersion>
+				<DriverLanguage>English</DriverLanguage>
+				<DriverBeta>0</DriverBeta>
+				<DriverDebug>0</DriverDebug>
+				<DriverDate>27/09/2022 01:00:00</DriverDate>
+				<DriverSize>235008</DriverSize>
+				<DefaultSoundRecording>1</DefaultSoundRecording>
+				<DefaultVoiceRecording>1</DefaultVoiceRecording>
+				<Flags>0</Flags>
+				<Formats>0</Formats>
+			</SoundCaptureDevice>
+			<SoundCaptureDevice>
+				<Description>Microphone (Realtek USB2.0 Audio)</Description>
+				<DriverName>USBAUDIO.sys</DriverName>
+				<DriverVersion>10.0.22621.608</DriverVersion>
+				<DriverLanguage>English</DriverLanguage>
+				<DriverBeta>0</DriverBeta>
+				<DriverDebug>0</DriverDebug>
+				<DriverDate>27/09/2022 01:00:00</DriverDate>
+				<DriverSize>235008</DriverSize>
+				<DefaultSoundRecording>0</DefaultSoundRecording>
+				<DefaultVoiceRecording>0</DefaultVoiceRecording>
+				<Flags>0</Flags>
+				<Formats>0</Formats>
+			</SoundCaptureDevice>
+		</SoundCaptureDevices>
+	</DirectSound>
+	<VideoCaptureDevices>
+		<VideoCaptureDevice>
+			<FriendlyName>USB2.0 FHD UVC WebCam</FriendlyName>
+			<Category>Camera</Category>
+			<SymbolicLink>\\?\usb#vid_04f2&amp;pid_b612&amp;mi_00#7&amp;18dd5857&amp;0&amp;0000#{redacted}\global</SymbolicLink>
+			<Location>n/a</Location>
+			<Rotation>n/a</Rotation>
+			<SensorOrientation>0</SensorOrientation>
+			<Manufacturer>Microsoft</Manufacturer>
+			<HardwareID>USB\VID_04F2&amp;PID_B612&amp;REV_0410&amp;MI_00,USB\VID_04F2&amp;PID_B612&amp;MI_00</HardwareID>
+			<DriverDesc>USB Video Device</DriverDesc>
+			<DriverProvider>Microsoft</DriverProvider>
+			<DriverVersion>10.0.22621.608</DriverVersion>
+			<DriverDateEnglish>6/21/2006 00:00:00</DriverDateEnglish>
+			<DriverDateLocalized>21/06/2006 00:00:00</DriverDateLocalized>
+			<Service>usbvideo</Service>
+			<Class>Camera</Class>
+			<DevNodeStatus>180200A[DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER]</DevNodeStatus>
+			<ContainerID>{redacted}</ContainerID>
+			<ProblemCode>No Problem</ProblemCode>
+			<BusReportedDeviceDesc>USB2.0 FHD UVC WebCam</BusReportedDeviceDesc>
+			<Parent>USB\VID_04F2&amp;PID_B612\01.00.00</Parent>
+			<DriverProblemDesc>n/a</DriverProblemDesc>
+			<BusReportedDeviceDesc>USB2.0 FHD UVC WebCam</BusReportedDeviceDesc>
+			<UpperFilters>n/a</UpperFilters>
+			<LowerFilters>n/a</LowerFilters>
+			<Stack>\Driver\ksthunk,\Driver\usbvideo,\Driver\usbccgp</Stack>
+			<ContainerCategory>n/a</ContainerCategory>
+			<SensorGroupID>{131FF57B-1F53-4963-860E-9F190063C2C8}</SensorGroupID>
+			<MFT0>n/a</MFT0>
+			<DMFT>n/a</DMFT>
+			<CustomCaptureSource>n/a</CustomCaptureSource>
+			<DependentStillCapture>False</DependentStillCapture>
+			<EnablePlatformDMFT>True</EnablePlatformDMFT>
+			<DMFTChain>n/a</DMFTChain>
+			<EnableDshowRedirection>True</EnableDshowRedirection>
+			<FrameServerEnabled>n/a</FrameServerEnabled>
+			<AnalogProviders>n/a</AnalogProviders>
+			<MSXUCapability>n/a</MSXUCapability>
+			<ProfileIDs>{B4894D81-62B7-4EEC-8740-80658C4A9D3E},0;{81361B22-700B-4546-A2D4-C52E907BFC27},0</ProfileIDs>
+		</VideoCaptureDevice>
+		<VideoCaptureDevice>
+			<FriendlyName>AvStream Media Device</FriendlyName>
+			<Category>Sensor</Category>
+			<SymbolicLink>\\?\usb#vid_04f2&amp;pid_b612&amp;mi_02#7&amp;18dd5857&amp;0&amp;0002#{24e552d7-6523-47f7-a647-d3465bf1f5ca}\global</SymbolicLink>
+			<Location>n/a</Location>
+			<Rotation>n/a</Rotation>
+			<SensorOrientation>0</SensorOrientation>
+			<Manufacturer>Microsoft</Manufacturer>
+			<HardwareID>USB\VID_04F2&amp;PID_B612&amp;REV_0410&amp;MI_02,USB\VID_04F2&amp;PID_B612&amp;MI_02</HardwareID>
+			<DriverDesc>USB Video Device</DriverDesc>
+			<DriverProvider>Microsoft</DriverProvider>
+			<DriverVersion>10.0.22621.608</DriverVersion>
+			<DriverDateEnglish>6/21/2006 00:00:00</DriverDateEnglish>
+			<DriverDateLocalized>21/06/2006 00:00:00</DriverDateLocalized>
+			<Service>usbvideo</Service>
+			<Class>Camera</Class>
+			<DevNodeStatus>180200A[DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER]</DevNodeStatus>
+			<ContainerID>{20B9CDE5-7039-E011-A935-0002A5D5C51B}</ContainerID>
+			<ProblemCode>No Problem</ProblemCode>
+			<BusReportedDeviceDesc>IR Camera</BusReportedDeviceDesc>
+			<Parent>USB\VID_04F2&amp;PID_B612\01.00.00</Parent>
+			<DriverProblemDesc>n/a</DriverProblemDesc>
+			<BusReportedDeviceDesc>IR Camera</BusReportedDeviceDesc>
+			<UpperFilters>n/a</UpperFilters>
+			<LowerFilters>n/a</LowerFilters>
+			<Stack>\Driver\ksthunk,\Driver\usbvideo,\Driver\usbccgp</Stack>
+			<ContainerCategory>n/a</ContainerCategory>
+			<SensorGroupID>{131FF57B-1F53-4963-860E-9F190063C2C8}</SensorGroupID>
+			<MFT0>n/a</MFT0>
+			<DMFT>n/a</DMFT>
+			<CustomCaptureSource>n/a</CustomCaptureSource>
+			<DependentStillCapture>n/a</DependentStillCapture>
+			<EnablePlatformDMFT>n/a</EnablePlatformDMFT>
+			<DMFTChain>n/a</DMFTChain>
+			<EnableDshowRedirection>n/a</EnableDshowRedirection>
+			<FrameServerEnabled>n/a</FrameServerEnabled>
+			<AnalogProviders>n/a</AnalogProviders>
+			<MSXUCapability>0x000001e0</MSXUCapability>
+			<ProfileIDs>{B4894D81-62B7-4EEC-8740-80658C4A9D3E},0;{81361B22-700B-4546-A2D4-C52E907BFC27},0</ProfileIDs>
+		</VideoCaptureDevice>
+		<VideoCaptureDevice>
+			<FriendlyName>AvStream Media Device</FriendlyName>
+			<Category>Sensor Group</Category>
+			<SymbolicLink>\\?\swd#sgdevapi#d944120a8c96d8cc8b1bc6b2eee902997b3b6a2e40911659dcb999045e56058c#{669c7214-0a88-4311-a7f3-4e79820e33bd}\d944120a8c96d8cc8b1bc6b2eee902997b3b6a2e40911659dcb999045e56058c</SymbolicLink>
+			<DeviceDescriptions>\\?\USB#VID_04F2&amp;PID_B612&amp;MI_00#7&amp;18dd5857&amp;0&amp;0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\GLOBAL,\\?\USB#VID_04F2&amp;PID_B612&amp;MI_02#7&amp;18dd5857&amp;0&amp;0002#{24e552d7-6523-47f7-a647-d3465bf1f5ca}\GLOBAL</DeviceDescriptions>
+			<ProfileIDs>{B4894D81-62B7-4EEC-8740-80658C4A9D3E},0;{81361B22-700B-4546-A2D4-C52E907BFC27},0</ProfileIDs>
+		</VideoCaptureDevice>
+	</VideoCaptureDevices>
+	<DirectInput>
+		<DirectInputDevices>
+			<DirectInputDevice>
+				<DeviceName>Mouse</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>0</VendorID>
+				<ProductID>0</ProductID>
+				<DevType>274</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Keyboard</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>0</VendorID>
+				<ProductID>0</ProductID>
+				<DevType>1043</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Gaming KB </DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>9610</VendorID>
+				<ProductID>42</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>USB Receiver</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1133</VendorID>
+				<ProductID>50475</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Gaming KB </DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>9610</VendorID>
+				<ProductID>42</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>USB Receiver</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1133</VendorID>
+				<ProductID>50475</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Gaming KB </DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>9610</VendorID>
+				<ProductID>42</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Stadia Controller rev. A</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>6353</VendorID>
+				<ProductID>37888</ProductID>
+				<DevType>66069</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Virtual HID Framework (VHF) HID device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1118</VendorID>
+				<ProductID>61442</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>USB Receiver</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1133</VendorID>
+				<ProductID>50475</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Gaming KB </DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>9610</VendorID>
+				<ProductID>42</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Virtual HID Framework (VHF) HID device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1118</VendorID>
+				<ProductID>61442</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>USB Receiver</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1133</VendorID>
+				<ProductID>50475</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Gaming KB </DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>9610</VendorID>
+				<ProductID>42</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Converted Portable Device Control device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1118</VendorID>
+				<ProductID>0</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Converted Portable Device Control device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1118</VendorID>
+				<ProductID>0</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Virtual HID Framework (VHF) HID device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1118</VendorID>
+				<ProductID>61441</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>AT</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>2313</VendorID>
+				<ProductID>27</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>USB Receiver</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1133</VendorID>
+				<ProductID>50475</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>AS</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>2313</VendorID>
+				<ProductID>27</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Virtual HID Framework (VHF) HID device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>0</VendorID>
+				<ProductID>0</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>USB Receiver</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1133</VendorID>
+				<ProductID>50475</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Converted Portable Device Control device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1118</VendorID>
+				<ProductID>0</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Gaming KB </DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>9610</VendorID>
+				<ProductID>42</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+			<DirectInputDevice>
+				<DeviceName>Converted Portable Device Control device</DeviceName>
+				<Attached>1</Attached>
+				<JoystickID>0</JoystickID>
+				<VendorID>1118</VendorID>
+				<ProductID>0</ProductID>
+				<DevType>65553</DevType>
+				<FFDriverName></FFDriverName>
+				<FFDriverDateEnglish></FFDriverDateEnglish>
+				<FFDriverVersion></FFDriverVersion>
+				<FFDriverSize>0</FFDriverSize>
+			</DirectInputDevice>
+		</DirectInputDevices>
+		<USBRoot>
+			<InputRelatedDevice>
+				<Description>USB Root Hub (USB 3.0)</Description>
+				<VendorID>3072</VendorID>
+				<ProductID>1676</ProductID>
+				<Location></Location>
+				<MatchingDeviceID>USB\ROOT_HUB30</MatchingDeviceID>
+				<UpperFilters></UpperFilters>
+				<LowerFilters></LowerFilters>
+				<Service>USBHUB3</Service>
+				<OEMData></OEMData>
+				<Flags1></Flags1>
+				<Flags2></Flags2>
+				<Drivers>
+					<Driver>
+						<Name>USBHUB3.SYS</Name>
+						<Path>C:\Windows\system32\DRIVERS\USBHUB3.SYS</Path>
+						<Version>10.00.22621.0001</Version>
+						<Language>English</Language>
+						<Beta>0</Beta>
+						<Debug>0</Debug>
+						<Date>5/7/2022 08:56:03</Date>
+						<Size>662376</Size>
+					</Driver>
+				</Drivers>
+				<InputRelatedDevice>
+					<Description>Generic USB Hub</Description>
+					<VendorID>3034</VendorID>
+					<ProductID>21536</ProductID>
+					<Location>Port_#0001.Hub_#0004</Location>
+					<MatchingDeviceID>USB\USB20_HUB</MatchingDeviceID>
+					<UpperFilters></UpperFilters>
+					<LowerFilters></LowerFilters>
+					<Service>USBHUB3</Service>
+					<OEMData></OEMData>
+					<Flags1></Flags1>
+					<Flags2></Flags2>
+					<Drivers>
+						<Driver>
+							<Name>USBHUB3.SYS</Name>
+							<Path>C:\Windows\system32\DRIVERS\USBHUB3.SYS</Path>
+							<Version>10.00.22621.0001</Version>
+							<Language>English</Language>
+							<Beta>0</Beta>
+							<Debug>0</Debug>
+							<Date>5/7/2022 08:56:03</Date>
+							<Size>662376</Size>
+						</Driver>
+					</Drivers>
+					<InputRelatedDevice>
+						<Description>Generic USB Hub</Description>
+						<VendorID>3034</VendorID>
+						<ProductID>21536</ProductID>
+						<Location>Port_#0001.Hub_#0005</Location>
+						<MatchingDeviceID>USB\USB20_HUB</MatchingDeviceID>
+						<UpperFilters></UpperFilters>
+						<LowerFilters></LowerFilters>
+						<Service>USBHUB3</Service>
+						<OEMData></OEMData>
+						<Flags1></Flags1>
+						<Flags2></Flags2>
+						<Drivers>
+							<Driver>
+								<Name>USBHUB3.SYS</Name>
+								<Path>C:\Windows\system32\DRIVERS\USBHUB3.SYS</Path>
+								<Version>10.00.22621.0001</Version>
+								<Language>English</Language>
+								<Beta>0</Beta>
+								<Debug>0</Debug>
+								<Date>5/7/2022 08:56:03</Date>
+								<Size>662376</Size>
+							</Driver>
+						</Drivers>
+						<InputRelatedDevice>
+							<Description>Generic USB Hub</Description>
+							<VendorID>1507</VendorID>
+							<ProductID>1544</ProductID>
+							<Location>Port_#0003.Hub_#0006</Location>
+							<MatchingDeviceID>USB\USB20_HUB</MatchingDeviceID>
+							<UpperFilters></UpperFilters>
+							<LowerFilters></LowerFilters>
+							<Service>USBHUB3</Service>
+							<OEMData></OEMData>
+							<Flags1></Flags1>
+							<Flags2></Flags2>
+							<Drivers>
+								<Driver>
+									<Name>USBHUB3.SYS</Name>
+									<Path>C:\Windows\system32\DRIVERS\USBHUB3.SYS</Path>
+									<Version>10.00.22621.0001</Version>
+									<Language>English</Language>
+									<Beta>0</Beta>
+									<Debug>0</Debug>
+									<Date>5/7/2022 08:56:03</Date>
+									<Size>662376</Size>
+								</Driver>
+							</Drivers>
+							<InputRelatedDevice>
+								<Description>Generic USB Hub</Description>
+								<VendorID>2965</VendorID>
+								<ProductID>26626</ProductID>
+								<Location>Port_#0002.Hub_#0007</Location>
+								<MatchingDeviceID>USB\USB20_HUB</MatchingDeviceID>
+								<UpperFilters></UpperFilters>
+								<LowerFilters></LowerFilters>
+								<Service>USBHUB3</Service>
+								<OEMData></OEMData>
+								<Flags1></Flags1>
+								<Flags2></Flags2>
+								<Drivers>
+									<Driver>
+										<Name>USBHUB3.SYS</Name>
+										<Path>C:\Windows\system32\DRIVERS\USBHUB3.SYS</Path>
+										<Version>10.00.22621.0001</Version>
+										<Language>English</Language>
+										<Beta>0</Beta>
+										<Debug>0</Debug>
+										<Date>5/7/2022 08:56:03</Date>
+										<Size>662376</Size>
+									</Driver>
+								</Drivers>
+								<InputRelatedDevice>
+									<Description>USB Composite Device</Description>
+									<VendorID>1133</VendorID>
+									<ProductID>50475</ProductID>
+									<Location>Port_#0001.Hub_#0008</Location>
+									<MatchingDeviceID>USB\COMPOSITE</MatchingDeviceID>
+									<UpperFilters></UpperFilters>
+									<LowerFilters></LowerFilters>
+									<Service>usbccgp</Service>
+									<OEMData></OEMData>
+									<Flags1></Flags1>
+									<Flags2></Flags2>
+									<Drivers>
+										<Driver>
+											<Name>usbccgp.sys</Name>
+											<Path>C:\Windows\system32\DRIVERS\usbccgp.sys</Path>
+											<Version>10.00.22621.0608</Version>
+											<Language>English</Language>
+											<Beta>0</Beta>
+											<Debug>0</Debug>
+											<Date>10/27/2022 18:32:41</Date>
+											<Size>166752</Size>
+										</Driver>
+									</Drivers>
+									<InputRelatedDevice>
+										<Description>USB Input Device</Description>
+										<VendorID>1133</VendorID>
+										<ProductID>50475</ProductID>
+										<Location>0000.0000.0000.001.001.003.002.001.000</Location>
+										<MatchingDeviceID>USB\Class_03&amp;SubClass_01</MatchingDeviceID>
+										<UpperFilters></UpperFilters>
+										<LowerFilters></LowerFilters>
+										<Service>HidUsb</Service>
+										<OEMData></OEMData>
+										<Flags1></Flags1>
+										<Flags2></Flags2>
+										<Drivers>
+											<Driver>
+												<Name>hidusb.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidusb.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+											<Driver>
+												<Name>hidclass.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidclass.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>222720</Size>
+											</Driver>
+											<Driver>
+												<Name>hidparse.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidparse.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+										</Drivers>
+										<InputRelatedDevice>
+											<Description>HID Keyboard Device</Description>
+											<VendorID>1133</VendorID>
+											<ProductID>50475</ProductID>
+											<Location></Location>
+											<MatchingDeviceID>HID_DEVICE_SYSTEM_KEYBOARD</MatchingDeviceID>
+											<UpperFilters></UpperFilters>
+											<LowerFilters></LowerFilters>
+											<Service>kbdhid</Service>
+											<OEMData></OEMData>
+											<Flags1></Flags1>
+											<Flags2></Flags2>
+											<Drivers>
+												<Driver>
+													<Name>kbdhid.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\kbdhid.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>52224</Size>
+												</Driver>
+												<Driver>
+													<Name>kbdclass.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\kbdclass.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>67432</Size>
+												</Driver>
+											</Drivers>
+										</InputRelatedDevice>
+									</InputRelatedDevice>
+									<InputRelatedDevice>
+										<Description>USB Input Device</Description>
+										<VendorID>1133</VendorID>
+										<ProductID>50475</ProductID>
+										<Location>0000.0000.0000.001.001.003.002.001.000</Location>
+										<MatchingDeviceID>USB\Class_03&amp;SubClass_01</MatchingDeviceID>
+										<UpperFilters></UpperFilters>
+										<LowerFilters></LowerFilters>
+										<Service>HidUsb</Service>
+										<OEMData></OEMData>
+										<Flags1></Flags1>
+										<Flags2></Flags2>
+										<Drivers>
+											<Driver>
+												<Name>hidusb.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidusb.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+											<Driver>
+												<Name>hidclass.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidclass.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>222720</Size>
+											</Driver>
+											<Driver>
+												<Name>hidparse.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidparse.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+										</Drivers>
+										<InputRelatedDevice>
+											<Description>HID-compliant mouse</Description>
+											<VendorID>1133</VendorID>
+											<ProductID>50475</ProductID>
+											<Location></Location>
+											<MatchingDeviceID>HID_DEVICE_SYSTEM_MOUSE</MatchingDeviceID>
+											<UpperFilters></UpperFilters>
+											<LowerFilters></LowerFilters>
+											<Service>mouhid</Service>
+											<OEMData></OEMData>
+											<Flags1></Flags1>
+											<Flags2></Flags2>
+											<Drivers>
+												<Driver>
+													<Name>mouhid.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\mouhid.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>39424</Size>
+												</Driver>
+												<Driver>
+													<Name>mouclass.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\mouclass.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>67432</Size>
+												</Driver>
+											</Drivers>
+										</InputRelatedDevice>
+									</InputRelatedDevice>
+								</InputRelatedDevice>
+							</InputRelatedDevice>
+							<InputRelatedDevice>
+								<Description>Generic USB Hub</Description>
+								<VendorID>1507</VendorID>
+								<ProductID>1544</ProductID>
+								<Location>Port_#0003.Hub_#0007</Location>
+								<MatchingDeviceID>USB\USB20_HUB</MatchingDeviceID>
+								<UpperFilters></UpperFilters>
+								<LowerFilters></LowerFilters>
+								<Service>USBHUB3</Service>
+								<OEMData></OEMData>
+								<Flags1></Flags1>
+								<Flags2></Flags2>
+								<Drivers>
+									<Driver>
+										<Name>USBHUB3.SYS</Name>
+										<Path>C:\Windows\system32\DRIVERS\USBHUB3.SYS</Path>
+										<Version>10.00.22621.0001</Version>
+										<Language>English</Language>
+										<Beta>0</Beta>
+										<Debug>0</Debug>
+										<Date>5/7/2022 08:56:03</Date>
+										<Size>662376</Size>
+									</Driver>
+								</Drivers>
+								<InputRelatedDevice>
+									<Description>USB Composite Device</Description>
+									<VendorID>9610</VendorID>
+									<ProductID>42</ProductID>
+									<Location>Port_#0002.Hub_#0009</Location>
+									<MatchingDeviceID>USB\COMPOSITE</MatchingDeviceID>
+									<UpperFilters></UpperFilters>
+									<LowerFilters></LowerFilters>
+									<Service>usbccgp</Service>
+									<OEMData></OEMData>
+									<Flags1></Flags1>
+									<Flags2></Flags2>
+									<Drivers>
+										<Driver>
+											<Name>usbccgp.sys</Name>
+											<Path>C:\Windows\system32\DRIVERS\usbccgp.sys</Path>
+											<Version>10.00.22621.0608</Version>
+											<Language>English</Language>
+											<Beta>0</Beta>
+											<Debug>0</Debug>
+											<Date>10/27/2022 18:32:41</Date>
+											<Size>166752</Size>
+										</Driver>
+									</Drivers>
+									<InputRelatedDevice>
+										<Description>USB Input Device</Description>
+										<VendorID>9610</VendorID>
+										<ProductID>42</ProductID>
+										<Location>0000.0000.0000.001.001.003.003.002.000</Location>
+										<MatchingDeviceID>USB\Class_03&amp;SubClass_01</MatchingDeviceID>
+										<UpperFilters></UpperFilters>
+										<LowerFilters></LowerFilters>
+										<Service>HidUsb</Service>
+										<OEMData></OEMData>
+										<Flags1></Flags1>
+										<Flags2></Flags2>
+										<Drivers>
+											<Driver>
+												<Name>hidusb.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidusb.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+											<Driver>
+												<Name>hidclass.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidclass.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>222720</Size>
+											</Driver>
+											<Driver>
+												<Name>hidparse.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidparse.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+										</Drivers>
+										<InputRelatedDevice>
+											<Description>HID Keyboard Device</Description>
+											<VendorID>9610</VendorID>
+											<ProductID>42</ProductID>
+											<Location></Location>
+											<MatchingDeviceID>HID_DEVICE_SYSTEM_KEYBOARD</MatchingDeviceID>
+											<UpperFilters></UpperFilters>
+											<LowerFilters></LowerFilters>
+											<Service>kbdhid</Service>
+											<OEMData></OEMData>
+											<Flags1></Flags1>
+											<Flags2></Flags2>
+											<Drivers>
+												<Driver>
+													<Name>kbdhid.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\kbdhid.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>52224</Size>
+												</Driver>
+												<Driver>
+													<Name>kbdclass.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\kbdclass.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>67432</Size>
+												</Driver>
+											</Drivers>
+										</InputRelatedDevice>
+									</InputRelatedDevice>
+									<InputRelatedDevice>
+										<Description>USB Input Device</Description>
+										<VendorID>9610</VendorID>
+										<ProductID>42</ProductID>
+										<Location>0000.0000.0000.001.001.003.003.002.000</Location>
+										<MatchingDeviceID>USB\Class_03</MatchingDeviceID>
+										<UpperFilters></UpperFilters>
+										<LowerFilters></LowerFilters>
+										<Service>HidUsb</Service>
+										<OEMData></OEMData>
+										<Flags1></Flags1>
+										<Flags2></Flags2>
+										<Drivers>
+											<Driver>
+												<Name>hidusb.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidusb.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+											<Driver>
+												<Name>hidclass.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidclass.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>222720</Size>
+											</Driver>
+											<Driver>
+												<Name>hidparse.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\hidparse.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>44544</Size>
+											</Driver>
+										</Drivers>
+										<InputRelatedDevice>
+											<Description>HID Keyboard Device</Description>
+											<VendorID>9610</VendorID>
+											<ProductID>42</ProductID>
+											<Location></Location>
+											<MatchingDeviceID>HID_DEVICE_SYSTEM_KEYBOARD</MatchingDeviceID>
+											<UpperFilters></UpperFilters>
+											<LowerFilters></LowerFilters>
+											<Service>kbdhid</Service>
+											<OEMData></OEMData>
+											<Flags1></Flags1>
+											<Flags2></Flags2>
+											<Drivers>
+												<Driver>
+													<Name>kbdhid.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\kbdhid.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>52224</Size>
+												</Driver>
+												<Driver>
+													<Name>kbdclass.sys</Name>
+													<Path>C:\Windows\system32\DRIVERS\kbdclass.sys</Path>
+													<Version>10.00.22621.0001</Version>
+													<Language>English</Language>
+													<Beta>0</Beta>
+													<Debug>0</Debug>
+													<Date>5/7/2022 08:56:03</Date>
+													<Size>67432</Size>
+												</Driver>
+											</Drivers>
+										</InputRelatedDevice>
+									</InputRelatedDevice>
+								</InputRelatedDevice>
+								<InputRelatedDevice>
+									<Description>USB Input Device</Description>
+									<VendorID>1149</VendorID>
+									<ProductID>4128</ProductID>
+									<Location>Port_#0003.Hub_#0009</Location>
+									<MatchingDeviceID>USB\Class_03&amp;SubClass_01</MatchingDeviceID>
+									<UpperFilters></UpperFilters>
+									<LowerFilters></LowerFilters>
+									<Service>HidUsb</Service>
+									<OEMData></OEMData>
+									<Flags1></Flags1>
+									<Flags2></Flags2>
+									<Drivers>
+										<Driver>
+											<Name>hidusb.sys</Name>
+											<Path>C:\Windows\system32\DRIVERS\hidusb.sys</Path>
+											<Version>10.00.22621.0001</Version>
+											<Language>English</Language>
+											<Beta>0</Beta>
+											<Debug>0</Debug>
+											<Date>5/7/2022 08:56:03</Date>
+											<Size>44544</Size>
+										</Driver>
+										<Driver>
+											<Name>hidclass.sys</Name>
+											<Path>C:\Windows\system32\DRIVERS\hidclass.sys</Path>
+											<Version>10.00.22621.0001</Version>
+											<Language>English</Language>
+											<Beta>0</Beta>
+											<Debug>0</Debug>
+											<Date>5/7/2022 08:56:03</Date>
+											<Size>222720</Size>
+										</Driver>
+										<Driver>
+											<Name>hidparse.sys</Name>
+											<Path>C:\Windows\system32\DRIVERS\hidparse.sys</Path>
+											<Version>10.00.22621.0001</Version>
+											<Language>English</Language>
+											<Beta>0</Beta>
+											<Debug>0</Debug>
+											<Date>5/7/2022 08:56:03</Date>
+											<Size>44544</Size>
+										</Driver>
+									</Drivers>
+									<InputRelatedDevice>
+										<Description>HID-compliant mouse</Description>
+										<VendorID>1149</VendorID>
+										<ProductID>4128</ProductID>
+										<Location></Location>
+										<MatchingDeviceID>HID_DEVICE_SYSTEM_MOUSE</MatchingDeviceID>
+										<UpperFilters></UpperFilters>
+										<LowerFilters></LowerFilters>
+										<Service>mouhid</Service>
+										<OEMData></OEMData>
+										<Flags1></Flags1>
+										<Flags2></Flags2>
+										<Drivers>
+											<Driver>
+												<Name>mouhid.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\mouhid.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>39424</Size>
+											</Driver>
+											<Driver>
+												<Name>mouclass.sys</Name>
+												<Path>C:\Windows\system32\DRIVERS\mouclass.sys</Path>
+												<Version>10.00.22621.0001</Version>
+												<Language>English</Language>
+												<Beta>0</Beta>
+												<Debug>0</Debug>
+												<Date>5/7/2022 08:56:03</Date>
+												<Size>67432</Size>
+											</Driver>
+										</Drivers>
+									</InputRelatedDevice>
+								</InputRelatedDevice>
+							</InputRelatedDevice>
+						</InputRelatedDevice>
+					</InputRelatedDevice>
+				</InputRelatedDevice>
+			</InputRelatedDevice>
+		</USBRoot>
+		<GamePortDevices />
+		<PS2Devices>
+			<InputRelatedDevice>
+				<Description>HID Keyboard Device</Description>
+				<VendorID>1118</VendorID>
+				<ProductID>0</ProductID>
+				<Location></Location>
+				<MatchingDeviceID>HID_DEVICE_SYSTEM_KEYBOARD</MatchingDeviceID>
+				<UpperFilters></UpperFilters>
+				<LowerFilters></LowerFilters>
+				<Service>kbdhid</Service>
+				<OEMData></OEMData>
+				<Flags1></Flags1>
+				<Flags2></Flags2>
+				<Drivers>
+					<Driver>
+						<Name>kbdhid.sys</Name>
+						<Path>C:\Windows\system32\DRIVERS\kbdhid.sys</Path>
+						<Version>10.00.22621.0001</Version>
+						<Language>English</Language>
+						<Beta>0</Beta>
+						<Debug>0</Debug>
+						<Date>5/7/2022 08:56:03</Date>
+						<Size>52224</Size>
+					</Driver>
+					<Driver>
+						<Name>kbdclass.sys</Name>
+						<Path>C:\Windows\system32\DRIVERS\kbdclass.sys</Path>
+						<Version>10.00.22621.0001</Version>
+						<Language>English</Language>
+						<Beta>0</Beta>
+						<Debug>0</Debug>
+						<Date>5/7/2022 08:56:03</Date>
+						<Size>67432</Size>
+					</Driver>
+				</Drivers>
+			</InputRelatedDevice>
+			<InputRelatedDevice>
+				<Description>HID Keyboard Device</Description>
+				<VendorID>1118</VendorID>
+				<ProductID>0</ProductID>
+				<Location></Location>
+				<MatchingDeviceID>HID_DEVICE_SYSTEM_KEYBOARD</MatchingDeviceID>
+				<UpperFilters></UpperFilters>
+				<LowerFilters></LowerFilters>
+				<Service>kbdhid</Service>
+				<OEMData></OEMData>
+				<Flags1></Flags1>
+				<Flags2></Flags2>
+				<Drivers>
+					<Driver>
+						<Name>kbdhid.sys</Name>
+						<Path>C:\Windows\system32\DRIVERS\kbdhid.sys</Path>
+						<Version>10.00.22621.0001</Version>
+						<Language>English</Language>
+						<Beta>0</Beta>
+						<Debug>0</Debug>
+						<Date>5/7/2022 08:56:03</Date>
+						<Size>52224</Size>
+					</Driver>
+					<Driver>
+						<Name>kbdclass.sys</Name>
+						<Path>C:\Windows\system32\DRIVERS\kbdclass.sys</Path>
+						<Version>10.00.22621.0001</Version>
+						<Language>English</Language>
+						<Beta>0</Beta>
+						<Debug>0</Debug>
+						<Date>5/7/2022 08:56:03</Date>
+						<Size>67432</Size>
+					</Driver>
+				</Drivers>
+			</InputRelatedDevice>
+			<InputRelatedDevice>
+				<Description>HID Keyboard Device</Description>
+				<VendorID>1118</VendorID>
+				<ProductID>61441</ProductID>
+				<Location></Location>
+				<MatchingDeviceID>HID_DEVICE_SYSTEM_KEYBOARD</MatchingDeviceID>
+				<UpperFilters></UpperFilters>
+				<LowerFilters></LowerFilters>
+				<Service>kbdhid</Service>
+				<OEMData></OEMData>
+				<Flags1></Flags1>
+				<Flags2></Flags2>
+				<Drivers>
+					<Driver>
+						<Name>kbdhid.sys</Name>
+						<Path>C:\Windows\system32\DRIVERS\kbdhid.sys</Path>
+						<Version>10.00.22621.0001</Version>
+						<Language>English</Language>
+						<Beta>0</Beta>
+						<Debug>0</Debug>
+						<Date>5/7/2022 08:56:03</Date>
+						<Size>52224</Size>
+					</Driver>
+					<Driver>
+						<Name>kbdclass.sys</Name>
+						<Path>C:\Windows\system32\DRIVERS\kbdclass.sys</Path>
+						<Version>10.00.22621.0001</Version>
+						<Language>English</Language>
+						<Beta>0</Beta>
+						<Debug>0</Debug>
+						<Date>5/7/2022 08:56:03</Date>
+						<Size>67432</Size>
+					</Driver>
+				</Drivers>
+			</InputRelatedDevice>
+		</PS2Devices>
+		<PollWithInterrupt>No</PollWithInterrupt>
+	</DirectInput>
+	<LogicalDisks>
+		<LogicalDisk>
+			<DriveLetter>C:</DriveLetter>
+			<FreeSpace>276593512448</FreeSpace>
+			<MaxSpace>510611419136</MaxSpace>
+			<FileSystem>NTFS</FileSystem>
+			<Model>KBG40ZNS512G BG4A KIOXIA</Model>
+			<PNPDeviceID>SCSI\DISK&amp;VEN_NVME&amp;PROD_KBG40ZNS512G_BG4\5&amp;299D0640&amp;0&amp;000000</PNPDeviceID>
+			<HardDriveIndex>0</HardDriveIndex>
+			<Drivers />
+		</LogicalDisk>
+	</LogicalDisks>
+	<SystemDevices>
+		<SystemDevice>
+			<Name>PCI Express Root Port</Name>
+			<DeviceKey>PCI\VEN_17CB&amp;DEV_010E&amp;SUBSYS_00000000&amp;REV_00\3&amp;71811BB&amp;0&amp;00</DeviceKey>
+			<Drivers>
+				<Driver>
+					<Name>pci.sys</Name>
+					<Path>C:\Windows\system32\DRIVERS\pci.sys</Path>
+					<Version>10.00.22621.0755</Version>
+					<Language>English</Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>10/27/2022 19:58:07</Date>
+					<Size>536416</Size>
+				</Driver>
+			</Drivers>
+		</SystemDevice>
+		<SystemDevice>
+			<Name>PCI Express Root Port</Name>
+			<DeviceKey>PCI\VEN_17CB&amp;DEV_010E&amp;SUBSYS_00000000&amp;REV_00\3&amp;36CB97A3&amp;0&amp;00</DeviceKey>
+			<Drivers>
+				<Driver>
+					<Name>pci.sys</Name>
+					<Path>C:\Windows\system32\DRIVERS\pci.sys</Path>
+					<Version>10.00.22621.0755</Version>
+					<Language>English</Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>10/27/2022 19:58:07</Date>
+					<Size>536416</Size>
+				</Driver>
+			</Drivers>
+		</SystemDevice>
+		<SystemDevice>
+			<Name>Standard NVM Express Controller</Name>
+			<DeviceKey>PCI\VEN_1E0F&amp;DEV_0001&amp;SUBSYS_00011E0F&amp;REV_00\4&amp;3B0B4AE7&amp;0&amp;0000</DeviceKey>
+			<Drivers>
+				<Driver>
+					<Name>stornvme.sys</Name>
+					<Path>C:\Windows\system32\DRIVERS\stornvme.sys</Path>
+					<Version>10.00.22621.0755</Version>
+					<Language>English</Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>10/27/2022 19:58:07</Date>
+					<Size>197984</Size>
+				</Driver>
+			</Drivers>
+		</SystemDevice>
+		<SystemDevice>
+			<Name>Qualcomm WCN685x Wi-Fi 6E Dual Band Simultaneous (DBS) WiFiCx Network Adapter #2</Name>
+			<DeviceKey>PCI\VEN_17CB&amp;DEV_1103&amp;SUBSYS_010817CB&amp;REV_01\4&amp;135C537A&amp;0&amp;0000</DeviceKey>
+			<Drivers>
+				<Driver>
+					<Name>qcwlan8280.sys</Name>
+					<Path>C:\Windows\system32\DRIVERS\qcwlan8280.sys</Path>
+					<Version>1.00.3532.9200</Version>
+					<Language>English</Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 06:43:14</Date>
+					<Size>3158160</Size>
+				</Driver>
+				<Driver>
+					<Name>wlanfw.mbn</Name>
+					<Path>C:\Windows\system32\DRIVERS\wlanfw.mbn</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 00:32:06</Date>
+					<Size>4831008</Size>
+				</Driver>
+				<Driver>
+					<Name>wlanfw20.mbn</Name>
+					<Path>C:\Windows\system32\DRIVERS\wlanfw20.mbn</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 00:32:08</Date>
+					<Size>4845568</Size>
+				</Driver>
+				<Driver>
+					<Name>m3.bin</Name>
+					<Path>C:\Windows\system32\DRIVERS\m3.bin</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>266684</Size>
+				</Driver>
+				<Driver>
+					<Name>m320.bin</Name>
+					<Path>C:\Windows\system32\DRIVERS\m320.bin</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>266684</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.elf</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.elf</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.elf.g</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.elf.g</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59872</Size>
+				</Driver>
+				<Driver>
+					<Name>regdb.bin</Name>
+					<Path>C:\Windows\system32\DRIVERS\regdb.bin</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 00:32:06</Date>
+					<Size>24278</Size>
+				</Driver>
+				<Driver>
+					<Name>Data.msc</Name>
+					<Path>C:\Windows\system32\DRIVERS\Data.msc</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 00:32:06</Date>
+					<Size>715554</Size>
+				</Driver>
+				<Driver>
+					<Name>Data20.msc</Name>
+					<Path>C:\Windows\system32\DRIVERS\Data20.msc</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 00:32:06</Date>
+					<Size>731074</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e8c</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e8c</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59900</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e8e</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e8e</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e1d</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e1d</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e1e</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e1e</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e02</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e02</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e07</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e07</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e23</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e23</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e26</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e26</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e32</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e32</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e47</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e47</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e81</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e81</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e84</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e84</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e85</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e85</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.e9f</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.e9f</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.ea3</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.ea3</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59868</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlan.eb8</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlan.eb8</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 00:32:06</Date>
+					<Size>60064</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlang.ea3</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlang.ea3</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59872</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlang.e9f</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlang.e9f</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:07</Date>
+					<Size>59872</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlang.elf</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlang.elf</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59872</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlang.e8b</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlang.e8b</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/26/2022 04:06:08</Date>
+					<Size>59872</Size>
+				</Driver>
+				<Driver>
+					<Name>bdwlang.eb8</Name>
+					<Path>C:\Windows\system32\DRIVERS\bdwlang.eb8</Path>
+					<Version></Version>
+					<Language></Language>
+					<Beta>0</Beta>
+					<Debug>0</Debug>
+					<Date>7/21/2022 00:32:06</Date>
+					<Size>60064</Size>
+				</Driver>
+			</Drivers>
+		</SystemDevice>
+	</SystemDevices>
+	<DirectShow>
+		<PreferredDShowFilters>MEDIASUBTYPE_DVD_LPCM_AUDIO, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDSMEDIASUBTYPE_MPEG2_AUDIO, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDSMEDIASUBTYPE_MPEG2_VIDEO, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDS{78766964-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject{7634706D-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObjectMEDIASUBTYPE_mp4s, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject{64697678-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject{58564944-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject{5634504D-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObjectMEDIASUBTYPE_MP4S, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObjectMEDIASUBTYPE_WMVR, WMVideo Decoder DMO, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_WMVP, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject{44495658-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObjectMEDIASUBTYPE_WMVA, WMVideo Decoder DMO, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_mpg4, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObjectMEDIASUBTYPE_MPG4, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObjectMEDIASUBTYPE_h264, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDSMEDIASUBTYPE_H264, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDSMEDIASUBTYPE_WMV3, WMVideo Decoder DMO, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_mp43, Mpeg43 Decoder DMO, CLSID_CMpeg43DecMediaObjectMEDIASUBTYPE_MP43, Mpeg43 Decoder DMO, CLSID_CMpeg43DecMediaObjectMEDIASUBTYPE_m4s2, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObjectMEDIASUBTYPE_WMV2, WMVideo Decoder DMO, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_MSS2, WMV Screen decoder DMO, CLSID_CMSSCDecMediaObjectMEDIASUBTYPE_M4S2, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObjectMEDIASUBTYPE_WVP2, WMVideo Decoder DMO, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_mp42, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObjectMEDIASUBTYPE_MP42, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObjectMEDIASUBTYPE_WMV1, WMVideo Decoder DMO, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_MSS1, WMV Screen decoder DMO, CLSID_CMSSCDecMediaObjectMEDIASUBTYPE_WVC1, WMVideo Decoder DMO, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_AVC1, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDSMEDIASUBTYPE_MPEG_LOAS, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDSMEDIASUBTYPE_MPEG_ADTS_AAC, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDSMEDIASUBTYPE_WMAUDIO_LOSSLESS, WMAudio Decoder DMO, CLSID_CWMADecMediaObjectMEDIASUBTYPE_WMAUDIO3, WMAudio Decoder DMO, CLSID_CWMADecMediaObjectWMMEDIASUBTYPE_WMAudioV8, WMAudio Decoder DMO, CLSID_CWMADecMediaObjectMEDIASUBTYPE_MSAUDIO1, WMAudio Decoder DMO, CLSID_CWMADecMediaObjectMEDIASUBTYPE_RAW_AAC1, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDSWMMEDIASUBTYPE_MP3, MP3 Decoder DMO, CLSID_CMP3DecMediaObjectMEDIASUBTYPE_MPEG1Payload, MPEG Video Decoder, CLSID_CMpegVideoCodecMEDIASUBTYPE_MPEG1Packet, MPEG Video Decoder, CLSID_CMpegVideoCodec{6C737664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodec{64737664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodec{64687664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodecMEDIASUBTYPE_MJPG, MJPEG Decompressor, CLSID_MjpegDec{20637664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodecMEDIASUBTYPE_MPEG1AudioPayload, MPEG Audio Decoder, CLSID_CMpegAudioCodecWMMEDIASUBTYPE_WMSP2, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObjectWMMEDIASUBTYPE_WMSP1, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject</PreferredDShowFilters>
+		<Filter>
+			<Name>WMAudio Decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8390656</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>WMADMOD.DLL</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WMAPro over S/PDIF DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>WMADMOD.DLL</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WMSpeech Decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>WMSPDMOD.DLL</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MP3 Decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>mp3dmod.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Mpeg4s Decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8388609</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>mp4sdecd.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WMV Screen decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>wmvsdecd.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WMVideo Decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8388609</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>wmvdecod.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Mpeg43 Decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8388609</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>mp43decd.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Mpeg4 Decoder DMO</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8388609</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>mpg4decd.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>DV Muxer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>qdv.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Color Space Converter</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194305</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WM ASF Reader</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>qasf.dll</File>
+			<FileVersion>12.00.22621.0001</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>AVI Splitter</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>VGA 16 Color Ditherer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>SBE2MediaTypeProfile</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>sbe.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft DTV-DVD Video Decoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291455</Merit>
+			<Inputs>2</Inputs>
+			<Outputs>4</Outputs>
+			<File>msmpeg2vdec.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>StreamBufferSink</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>sbe.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MJPEG Decompressor</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MPEG-I Stream Splitter</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>2</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>SAMI (CC) Parser</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>SBE2FileScan</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>sbe.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft MPEG-2 Video Encoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>msmpeg2enc.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Internal Script Command Renderer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8388609</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MPEG Audio Decoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>57147393</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>DV Splitter</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>2</Outputs>
+			<File>qdv.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Video Mixing Renderer 9</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft MPEG-2 Encoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>2</Inputs>
+			<Outputs>1</Outputs>
+			<File>msmpeg2enc.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>ACM Wrapper</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Video Renderer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8388609</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MPEG-2 Video Stream Analyzer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>sbe.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Line 21 Decoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File></File>
+			<FileVersion></FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Video Port Manager</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>2</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Video Renderer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WM ASF Writer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>qasf.dll</File>
+			<FileVersion>12.00.22621.0001</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>File writer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>qcap.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>DVD Navigator</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>3</Outputs>
+			<File>qdvd.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Overlay Mixer2</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File></File>
+			<FileVersion></FileVersion>
+		</Filter>
+		<Filter>
+			<Name>AVI Draw</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291556</Merit>
+			<Inputs>9</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft MPEG-2 Audio Encoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>msmpeg2enc.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>DV Video Decoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>8388608</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>qdv.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>SampleGrabber</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>qedit.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Null Renderer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>qedit.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft AC3 Encoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>msac3enc.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>StreamBufferSource</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>sbe.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Smart Tee</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>2</Outputs>
+			<File>qcap.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Overlay Mixer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File></File>
+			<FileVersion></FileVersion>
+		</Filter>
+		<Filter>
+			<Name>AVI Decompressor</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291456</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>AVI/WAV File Source</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>2</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Wave Parser</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MIDI Parser</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Multi-file Parser</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>File stream renderer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft DTV-DVD Audio Decoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291455</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>msmpeg2adec.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>StreamBufferSink2</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>sbe.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>AVI Mux</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>qcap.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Line 21 Decoder 2</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>6291458</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>File Source (Async.)</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>File Source (URL)</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>4194304</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Infinite Pin Tee Filter</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>qcap.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Enhanced Video Renderer</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>evr.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MPEG Video Decoder</Name>
+			<FilterCatagory>DirectShow Filters</FilterCatagory>
+			<Merit>1073741825</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Tee/Sink-to-Sink Converter</Name>
+			<FilterCatagory>WDM Streaming Tee/Splitter Devices</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>ksproxy.ax</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WMVideo8 Encoder DMO</Name>
+			<FilterCatagory>Video Compressors</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>wmvxencd.dll</File>
+			<FileVersion>10.00.22621.0001</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WMVideo9 Encoder DMO</Name>
+			<FilterCatagory>Video Compressors</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>wmvencod.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MSScreen 9 encoder DMO</Name>
+			<FilterCatagory>Video Compressors</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>wmvsencd.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>DV Video Encoder</Name>
+			<FilterCatagory>Video Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>qdv.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MJPEG Compressor</Name>
+			<FilterCatagory>Video Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WM Speech Encoder DMO</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>WMSPDMOE.DLL</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>WMAudio Encoder DMO</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>6293504</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>WMADMOE.DLL</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>IMA ADPCM</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>PCM</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft ADPCM</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>GSM 6.10</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>CCITT A-Law</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>CCITT u-Law</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>MPEG Layer-3</Name>
+			<FilterCatagory>Audio Compressors</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microphone (AT2005USB)</Name>
+			<FilterCatagory>Audio Capture Sources</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>qcap.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microphone (Realtek USB2.0 Audio)</Name>
+			<FilterCatagory>Audio Capture Sources</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File>qcap.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Default MidiOut Device</Name>
+			<FilterCatagory>Midi Renderers</FilterCatagory>
+			<Merit>8388608</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Microsoft GS Wavetable Synth</Name>
+			<FilterCatagory>Midi Renderers</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Realtek USB2.0 Audio</Name>
+			<FilterCatagory>WDM Streaming Capture Devices</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>ksproxy.ax</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name></Name>
+			<FilterCatagory>WDM Streaming Capture Devices</FilterCatagory>
+			<Merit>0</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File></File>
+			<FileVersion></FileVersion>
+		</Filter>
+		<Filter>
+			<Name>USB2.0 FHD UVC WebCam</Name>
+			<FilterCatagory>WDM Streaming Capture Devices</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>ksproxy.ax</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>AT2005USB</Name>
+			<FilterCatagory>WDM Streaming Capture Devices</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>2</Inputs>
+			<Outputs>2</Outputs>
+			<File>ksproxy.ax</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>AT2005USB</Name>
+			<FilterCatagory>WDM Streaming Rendering Devices</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>2</Inputs>
+			<Outputs>2</Outputs>
+			<File>ksproxy.ax</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name></Name>
+			<FilterCatagory>WDM Streaming Rendering Devices</FilterCatagory>
+			<Merit>0</Merit>
+			<Inputs>0</Inputs>
+			<Outputs>0</Outputs>
+			<File></File>
+			<FileVersion></FileVersion>
+		</Filter>
+		<Filter>
+			<Name>USB2.0 FHD UVC WebCam</Name>
+			<FilterCatagory>Video Capture Sources</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>ksproxy.ax</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Tee/Sink-to-Sink Converter</Name>
+			<FilterCatagory>WDM Streaming Communication Transforms</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>1</Outputs>
+			<File>ksproxy.ax</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Speakers (AT2005USB)</Name>
+			<FilterCatagory>Audio Renderers</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Default DirectSound Device</Name>
+			<FilterCatagory>Audio Renderers</FilterCatagory>
+			<Merit>8388608</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>Default WaveOut Device</Name>
+			<FilterCatagory>Audio Renderers</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>DirectSound: Speakers (AT2005USB)</Name>
+			<FilterCatagory>Audio Renderers</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>DirectSound: PHL 499P9 (Qualcomm(R) Aqstic(TM) Audio Adapter Device)</Name>
+			<FilterCatagory>Audio Renderers</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+		<Filter>
+			<Name>PHL 499P9 (Qualcomm(R) Aqstic(TM) Audio Adapter Device)</Name>
+			<FilterCatagory>Audio Renderers</FilterCatagory>
+			<Merit>2097152</Merit>
+			<Inputs>1</Inputs>
+			<Outputs>0</Outputs>
+			<File>quartz.dll</File>
+			<FileVersion>10.00.22621.0755</FileVersion>
+		</Filter>
+	</DirectShow>
+	<MediaFoundation>
+		<szMFFileVersions>  mfcore.dll, 10.00.22621.0755  mfreadwrite.dll, 10.00.22621.0755  mfcaptureengine.dll, 10.00.22621.0755  mfsensorgroup.dll, 10.00.22621.0755  windows.media.dll, 10.00.22621.0755  frameserver.dll, 10.00.22621.0755  frameserverclient.dll, 10.00.22621.0755</szMFFileVersions>
+		<szMFTs>Video Decoders:  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.22621.0755  Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.22621.0755  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.22621.0755  WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.22621.0755  WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.22621.0755  MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.22621.0755  Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.22621.0755  Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.22621.0755  VP9VideoExtensionDecoder  WebpImageExtension  MPEG2VideoExtension  HEIFImageExtension  HEVCVideoExtension  RawImageExtensionVideo Encoders:  QCOM Hardware Encoder - HEVC, {5AAFFE75-4EA4-424C-89E3-4A1E3F9A570D}, 0x4, 7, qcvidencarm64xmfthevc8280.dll, 1.00.3533.0400  QCOM Hardware Encoder - H264, {7790EE16-08E3-426D-AADA-F96774308EA1}, 0x4, 7, qcvidencarm64xmfth2648280.dll, 1.00.3533.0400  H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.22621.0755  WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.22621.0001  H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.22621.0755  WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.22621.0755  Microsoft MPEG-2 Video Encoder MFT, {E6335F02-80B7-4DC4-ADFA-DFE7210D20D5}, 0x2, msmpeg2enc.dll, 10.00.22621.0755  VP9VideoExtensionEncoder  HEIFImageExtension  HEVCVideoExtensionEncoderVideo Effects:  Frame Rate Converter, CLSID_CFrameRateConvertDmo, 0x1, mfvdsp.dll, 10.00.22621.0755  Resizer MFT, CLSID_CResizerDMO, 0x1, vidreszr.dll, 10.00.22621.0755  VideoStabilization MFT, {51571744-7FE4-4FF2-A498-2DC34FF74F1B}, 0x1, MSVideoDSP.dll, 10.00.22621.0608  Color Control, CLSID_CColorControlDmo, 0x1, mfvdsp.dll, 10.00.22621.0755  Color Converter MFT, CLSID_CColorConvertDMO, 0x1, colorcnv.dll, 10.00.22621.0755Video Processor:  Microsoft Video Processor MFT, {88753B26-5B24-49BD-B2E7-0C445C78C982}, 0x1, msvproc.dll, 10.00.22621.0755Audio Decoders:  Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}, 0x1, DolbyDecMFT.dll, 10.00.22621.0755  MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.22621.0001  WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.22621.0755  Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.22621.0755  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.22621.0755  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.22621.0755  WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.22621.0755  Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}, 0x1, MSOpusDecoder.dll, 10.00.22621.0755  Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.22621.0755  Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.22621.0755  WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.22621.0755  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.22621.0755  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.22621.0755  MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.22621.0755  Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.22621.0001  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.22621.0755  Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}, 0x1, mfaudiocnv.dll, 10.00.22621.0755  DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}, 0x1, mfaudiocnv.dll, 10.00.22621.0755Audio Encoders:  LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, mfaudiocnv.dll, 10.00.22621.0755  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.22621.0755  Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.22621.0001  WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.22621.0755  MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.22621.0001  Microsoft MPEG-2 Audio Encoder MFT, {46A4DD5C-73F8-4304-94DF-308F760974F4}, 0x1, msmpeg2enc.dll, 10.00.22621.0755  WMAudio Encoder MFT, CLSID_CWMAEncMediaObject, 0x1, WMADMOE.DLL, 10.00.22621.0755  Microsoft AAC Audio Encoder MFT, {93AF0C51-2275-45D2-A35B-F2BA21CAED00}, 0x1, mfAACEnc.dll, 10.00.22621.0755  Microsoft ALAC Audio Encoder MFT, {9AB6A28C-748E-4B6A-BFFF-CC443B8E8FB4}, 0x1, MSAlacEncoder.dll, 10.00.22621.0001  Microsoft Dolby Digital Encoder MFT, {AC3315C9-F481-45D7-826C-0B406C1F64B8}, 0x1, msac3enc.dll, 10.00.22621.0755Audio Effects:  AEC, CLSID_CWMAudioAEC, 0x1, mfwmaaec.dll, 10.00.22621.0755  Resampler MFT, CLSID_CResamplerMediaObject, 0x1, resampledmo.dll, 10.00.22621.0755Multiplexers:  Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.22621.0755Others:  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.22621.0755</szMFTs>
+		<szEnabledHardwareMFTs></szEnabledHardwareMFTs>
+		<szByteStreamHandlers>.3g2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.3gp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.3gp2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.3gpp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.aac, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred.ac3, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred.adt, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred.adts, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred.am?, {EFE6208A-0A2C-49FA-8A01-3768B559B6DA}, MF AMRNB Media Source ByteStreamHandler.amr, {EFE6208A-0A2C-49FA-8A01-3768B559B6DA}, MF AMRNB Media Source ByteStreamHandler, Preferred.asf, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred.avi, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferred.dvr-ms, {A8721937-E2FB-4D7A-A9EE-4EB08C890B6E}, MF SBE Source ByteStreamHandler.dvr-ms, {65964407-A5D8-4060-85B0-1CCD63F768E2}, dvr-ms Byte Stream Handler, Preferred.ec3, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred.flac, {0E41CFB8-0506-40F4-A516-77CC23642D91}, MF FLAC Media Source ByteStreamHandler, Preferred.m2t, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.m2ts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.m4a, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.m4v, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.mk3d, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred.mka, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred.mks, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred.mkv, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred.mod, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.mov, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.mp2v, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.mp3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred.mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.mp4v, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.mpa, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred.mpeg, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.mpg, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.mts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.nsc, {B084785C-DDE0-4D30-8CA8-05A373E185BE}, NSC Byte Stream Handler, Preferred.sami, {7A56C4CB-D678-4188-85A8-BA2EF68FA10D}, SAMI Byte Stream Handler, Preferred.smi, {7A56C4CB-D678-4188-85A8-BA2EF68FA10D}, SAMI Byte Stream Handler, Preferred.tod, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.ts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.tts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.uvu, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred.vob, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred.wav, {42C9B9F5-16FC-47EF-AF22-DA05F7C842E3}, WAV Byte Stream Handler, Preferred.weba, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferred.webm, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferred.wm, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred.wma, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred.wmv, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred.wtv, {65964407-A5D8-4060-85B0-1CCD63F768E2}, WTV Byte Stream Handler, Preferredaudio/3gpp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredaudio/3gpp2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredaudio/aac, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferredaudio/aacp, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferredaudio/eac3, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferredaudio/flac, {0E41CFB8-0506-40F4-A516-77CC23642D91}, MF FLAC Media Source ByteStreamHandler, Preferredaudio/L16, {3FFB3B8C-EB99-472B-8902-E1C1B05F07CF}, LPCM Byte Stream Handler, Preferredaudio/mp3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferredaudio/mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredaudio/MP4A-LATM, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredaudio/mpa, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferredaudio/mpeg, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferredaudio/mpeg3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferredaudio/vnd.dlna.adts, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferredaudio/vnd.dolby.dd-raw, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferredaudio/wav, {42C9B9F5-16FC-47EF-AF22-DA05F7C842E3}, WAV Byte Stream Handler, Preferredaudio/webm, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferredaudio/x-aac, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferredaudio/x-flac, {0E41CFB8-0506-40F4-A516-77CC23642D91}, MF FLAC Media Source ByteStreamHandler, Preferredaudio/x-m4a, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredaudio/x-matroska, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferredaudio/x-mp3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferredaudio/x-mpeg, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferredaudio/x-ms-wma, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferredaudio/x-wav, {42C9B9F5-16FC-47EF-AF22-DA05F7C842E3}, WAV Byte Stream Handler, Preferredvideo/3gpp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredvideo/3gpp2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredvideo/avi, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferredvideo/mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredvideo/mpeg, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferredvideo/msvideo, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferredvideo/vnd.dece.mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredvideo/vnd.dlna.mpeg-tts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferredvideo/webm, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferredvideo/x-m4v, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferredvideo/x-matroska, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferredvideo/x-ms-asf, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferredvideo/x-ms-wm, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferredvideo/x-ms-wmv, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferredvideo/x-msvideo, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferred</szByteStreamHandlers>
+		<szSchemeHandlers>file:, {477EC299-1421-4BDD-971F-7CCB933F21AD}, File Scheme Handler, Preferredhttp:, {44CB442B-9DA9-49DF-B3FD-023777B16E50}, Http Scheme Handlerhttp:, {9EC4B4F9-3029-45AD-947B-344DE2A249E2}, Urlmon Scheme Handlerhttp:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredhttpd:, {44CB442B-9DA9-49DF-B3FD-023777B16E50}, Http Scheme Handler, Preferredhttps:, {37A61C8B-7F8E-4D08-B12B-248D73E9AB4F}, Secure Http Scheme Handler, Preferredhttpsd:, {37A61C8B-7F8E-4D08-B12B-248D73E9AB4F}, Secure Http Scheme Handler, Preferredhttpt:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredhttpu:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredmcast:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredmcrecv:, {FA6D33D4-9405-4BA5-9983-12604AC8E77A}, Miracast Sink Scheme Handler, Preferredmms:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredms-appdata:, {CFC81939-3886-4ACF-9692-DA58037AE716}, MsAppData Scheme Handler, Preferredms-appx-web:, {8DB0224B-3D65-4F6F-8E12-BEB4B78B8974}, MsAppxWeb Scheme Handler, Preferredms-appx:, {8DB0224B-3D65-4F6F-8E12-BEB4B78B8974}, MsAppx Scheme Handler, Preferredms-winsoundevent:, {F79A6BF9-7415-4CF3-AE10-4559509ABC3C}, Sound Event Scheme Handler, Preferredrtsp:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredrtsps:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredrtspt:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredrtspu:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferredsdp:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred</szSchemeHandlers>
+		<szPreferredMFTs>{EB27CEC4-163E-4CA3-8B74-8E25F91B517E}, Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}{E06D8033-DB46-11CF-B4D1-00805F6CBBEA}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}{E06D802C-DB46-11CF-B4D1-00805F6CBBEA}, Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}MFVideoFormat_MPEG2, Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}{C2FE6F0A-4E3C-4DF1-9B60-50863091E4B9}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}MEDIASUBTYPE_DOLBY_DDPLUS, Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}{A61AC364-AD0E-4744-89FF-213CE0DF8804}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}{A2E58EB7-0FA9-48BB-A40C-FA0E156D0645}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}{7634706D-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT{73616D72-767A-494D-B478-F29D25DC9037}, MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}MEDIASUBTYPE_mp4s, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT{63616C61-0000-0010-8000-00AA00389B71}, Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}MFVideoFormat_MP4V, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFTMFVideoFormat_MP4S, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT{53314356-0000-0010-8000-00AA00389B71}, WMVideo Decoder MFT, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_WMVR, WMVideo Decoder MFT, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_WMVP, WMVideo Decoder MFT, CLSID_CWMVDecMediaObjectMFVideoFormat_MJPG, MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}MEDIASUBTYPE_WMVA, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject{3F40F4F0-5622-4FF8-B6D8-A17A584BEE5E}, Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFTMEDIASUBTYPE_mpg4, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObjectMEDIASUBTYPE_MPG4, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObjectMFVideoFormat_H264, Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFTMFVideoFormat_WMV3, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject{33363248-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFTMEDIASUBTYPE_mp43, Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObjectMFVideoFormat_MP43, Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObjectMEDIASUBTYPE_m4s2, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFTMFVideoFormat_WMV2, WMVideo Decoder MFT, CLSID_CWMVDecMediaObjectMFVideoFormat_MSS2, WMV Screen decoder MFT, CLSID_CMSSCDecMediaObjectMFVideoFormat_M4S2, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFTMEDIASUBTYPE_WVP2, WMVideo Decoder MFT, CLSID_CWMVDecMediaObjectMEDIASUBTYPE_mp42, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObjectMEDIASUBTYPE_MP42, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObjectMFVideoFormat_WMV1, WMVideo Decoder MFT, CLSID_CWMVDecMediaObjectMFVideoFormat_MSS1, WMV Screen decoder MFT, CLSID_CMSSCDecMediaObjectMFVideoFormat_MPG1, Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}MFVideoFormat_WVC1, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject{0000F1AC-0000-0010-8000-00AA00389B71}, Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}{00007361-0000-0010-8000-00AA00389B71}, MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}{0000704F-0000-0010-8000-00AA00389B71}, Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}{00006C61-0000-0010-8000-00AA00389B71}, Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}{00002001-0000-0010-8000-00AA00389B71}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}{00002000-0000-0010-8000-00AA00389B71}, Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}MFAudioFormat_AAC, Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFTMFAudioFormat_ADTS, Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFTMFAudioFormat_WMAudio_Lossless, WMAudio Decoder MFT, CLSID_CWMADecMediaObjectMFAudioFormat_WMAudioV9, WMAudio Decoder MFT, CLSID_CWMADecMediaObjectMFAudioFormat_WMAudioV8, WMAudio Decoder MFT, CLSID_CWMADecMediaObjectMEDIASUBTYPE_MSAUDIO1, WMAudio Decoder MFT, CLSID_CWMADecMediaObjectMEDIASUBTYPE_RAW_AAC1, Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFTMFAudioFormat_MP3, MP3 Decoder MFT, CLSID_CMP3DecMediaObjectMFAudioFormat_MPEG, Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}{00000031-0000-0010-8000-00AA00389B71}, GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}{00000011-0000-0010-8000-00AA00389B71}, IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}KSDATAFORMAT_SUBTYPE_MULAW, G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}{00000006-0000-0010-8000-00AA00389B71}, A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}KSDATAFORMAT_SUBTYPE_ADPCM, ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}WMMEDIASUBTYPE_WMSP2, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObjectMFAudioFormat_MSP1, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject</szPreferredMFTs>
+		<szDisabledMFTs></szDisabledMFTs>
+		<szDisabledMediaSources></szDisabledMediaSources>
+	</MediaFoundation>
+	<EvrPowerInformation>
+		<CurrentSettings>
+			<GUID>{5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) </GUID>
+		</CurrentSettings>
+		<QualityFlags>
+			<Flags>2576</Flags>
+			<Enabled>    Force throttling    Allow half deinterlace    Allow scaling</Enabled>
+			<DecodePowerUsage>100</DecodePowerUsage>
+		</QualityFlags>
+		<BalancedFlags>
+			<Flags>1424</Flags>
+			<Enabled>    Force throttling    Allow batching    Force half deinterlace    Force scaling</Enabled>
+			<DecodePowerUsage>50</DecodePowerUsage>
+		</BalancedFlags>
+		<PowerFlags>
+			<Flags>1424</Flags>
+			<Enabled>    Force throttling    Allow batching    Force half deinterlace    Force scaling</Enabled>
+			<DecodePowerUsage>0</DecodePowerUsage>
+		</PowerFlags>
+	</EvrPowerInformation>
+	<Diagnostics>
+		<WindowsErrorReporting>
+			<WER0>Fault bucket 1559156174004580185, type 5Event Name: RADAR_PRE_LEAK_64Response: Not availableCab Id: 0Problem signature:P1: witcher3.exeP2: 3.0.19.14337P3: 10.0.22621.2.0.0P4: P5: P6: P7: P8: P9: P10: </WER0>
+			<WER1>Fault bucket 1614956301521358369, type 5Event Name: RADAR_PRE_LEAK_64Response: Not availableCab Id: 0Problem signature:P1: Borderlands3.exeP2: 4.20.3.0P3: 10.0.22621.2.0.0P4: P5: P6: P7: P8: P9: P10: </WER1>
+			<WER2>Fault bucket 2067795453238919030, type 5Event Name: BEX64Response: Not availableCab Id: 0Problem signature:P1: vmwp.exeP2: 10.0.22621.105P3: 7b974e77P4: vmvpci.dllP5: 10.0.22621.1P6: 98a07dcaP7: 0000000000033028P8: c0000409P9: 0000000000000007P10: </WER2>
+			<WER3>Fault bucket 1516188412343352641, type 5Event Name: MoAppCrashResponse: Not availableCab Id: 0Problem signature:P1: Microsoft.WindowsTerminal_1.12.10983.0_arm64__8wekyb3d8bbweP2: praid:AppP3: 1.12.2204.8003P4: 62508e35P5: combase.dllP6: 10.0.22621.169P7: a881caebP8: 8000000bP9: 0000000000051b44P10: </WER3>
+			<WER4>Fault bucket 1193126005274907175, type 5Event Name: RADAR_PRE_LEAK_WOW64Response: Not availableCab Id: 0Problem signature:P1: portal2.exeP2: 0.0.0.0P3: 10.0.22621.2.0.0P4: P5: P6: P7: P8: P9: P10: </WER4>
+			<WER5>Fault bucket 1673130253602496978, type 5Event Name: RADAR_PRE_LEAK_64Response: Not availableCab Id: 0Problem signature:P1: teardown.exeP2: 0.0.0.0P3: 10.0.22621.2.0.0P4: P5: P6: P7: P8: P9: P10: </WER5>
+			<WER6>Fault bucket LKD_0x117_Tdr:3_TdrBug:575504_IMAGE_qcdxkm8280.sys, type 0Event Name: LiveKernelEventResponse: Not availableCab Id: 2524fd51-a4ed-4fb9-b523-f5097831ca86Problem signature:P1: 117P2: ffff9c8f344f1010P3: fffff80722005750P4: 0P5: 78cP6: 10_0_22621P7: 0_0P8: 256_1P9: P10: </WER6>
+			<WER7>Fault bucket , type 0Event Name: LiveKernelEventResponse: Not availableCab Id: 2524fd51-a4ed-4fb9-b523-f5097831ca86Problem signature:P1: 117P2: ffff9c8f344f1010P3: fffff80722005750P4: 0P5: 78cP6: 10_0_22621P7: 0_0P8: 256_1P9: P10: </WER7>
+			<WER8>Fault bucket , type 0Event Name: LiveKernelEventResponse: Not availableCab Id: 0Problem signature:P1: 117P2: ffff9c8f344f1010P3: fffff80722005750P4: 0P5: 78cP6: 10_0_22621P7: 0_0P8: 256_1P9: P10: </WER8>
+			<WER9>Fault bucket 1160104092115938379, type 5Event Name: RADAR_PRE_LEAK_64Response: Not availableCab Id: 0Problem signature:P1: SoTGame.exeP2: 0.114.1229.4P3: 10.0.22621.2.0.0P4: P5: P6: P7: P8: P9: P10: </WER9>
+		</WindowsErrorReporting>
+	</Diagnostics>
+</DxDiag>
