@@ -7,9 +7,8 @@ Cliff notes before I forget:
  - 'Efficiency mode' does exactly what you'd expect, chucks a process to the efficiency cores
  - x86/x64 apps seem fine broadly, though definitely a bit sluggish e.g. lag on opening
  - I'd be miffed if I paid £1600 for an SQ3 Surface Pro 9 then ran x86 stuff all day, for a mac mini style £580 device who cares
- - First time using WSL2 instead of dual booting, it's neat!
- - No audio in WSL2
- - No (working) Arch for ARM WSL2 that I can find, hamstrung a little by Ubuntu 22.04's old/missing packages 
+ - First time using WSL2 instead of dual booting, it's neat
+ - WSL2 not perfect, more down below.
  - ARM native stuff in WSL2 runs waaaaay faster than x86 in windows, 3.3x speedup in one browser benchmark
  - Vivaldi, Discord, Steam, VSCode all run fine
  - Steam can't max out a gigabit connection, too much CPU load :D
@@ -39,3 +38,8 @@ I ran https://browserbench.org/Speedometer2.1/ across a few machines to give an 
 - MBP 16" 2019 (2.6Ghz 6 core i7), chrome, macos, x86 - 167rpm
 - Pinebook pro (RK3399), vivaldi, linux, arm64 - 21.6rpm
 - Steam deck, chrome, linux, x86 - 91.3rpm
+
+### WSL2
+I'm normally a linux user with my distro of choice being Manjaro based on Arch. Switching to WSL2 has been interesting. My distro choice is fairly limited, Debian or Ubuntu 18.04, 20.04 and 22.04. There is an Arch WSL2 project out there but it doesn't seem to work on ARM. I initially went for Ubuntu 22.04 because newer is usually better but not this time, after installing Vivaldi I had missing audio. I tried Firefox in Ubuntu 20.04 and 18.04 both of which had audio, but Firefox in 22.04 uses a Snap package and snapd doesn't work out of the box on WSL2 because it needs SystemD which also doesn't work out of the box. It looks fixable but I haven't put in the time yet. One thing about Ubuntu is its default repositories are usually out of date. Golang is a language I use with frequent releases where 1.19 is latest but the default repos had 1.18 in 22.04, 1.13 in 20.04 and 1.10 in 18.04. There are separate repos to tackle this but Arch by comparison has regular updates to this package so I don't need to think about it much. Another example is VSCode which admittedly I'll run on windows and use WSL as a remote machine but Ubuntu doesn't seem to have a package for it. Arch has one in the core repos then... 7 AURs you could use including the official microsoft binaries packaged up.
+
+I use Mac OS at work so the question becomes would I prefer WSL2 or Mac OS? I haven't spent enough time to pass that judgement but I like the WSL2 gives me gnu tools (e.g. sed) by default, proper window management instead of 'full screen everything and swipe between them', plus I spend a lot of time in Docker so think the memory reclamation of WSL2 will help. I think I'll hit some more WSL2 jank that'll make me swing the other way soon.
