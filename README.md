@@ -18,6 +18,12 @@ Cliff notes before I forget:
  - GPU driver seems to be a bag of bolts, 2D fine but 3D can crash the whole system. No BSOD so hard to start debugging
  - No Vulkan or (I think) recent OpenGL. DirectX 9-12 only.
  - Easy anticheat (and I imagine lots of anticheat) has an architecture check and says no on ARM
- - MiniDP only if you want to see the UEFI but the only interesting bit there was boot order
+ - MiniDP only if you want to see the UEFI but the only interesting bit there was boot order and secure boot disable
  - USB Boot and PXE Boot supported, shenanigans?
  - Where do I even go for support on e.g. GPU drivers?
+
+### Memory testing and USB booting
+So my system crashes under GPU load and I wondered whether this could be memory related since the GPU shares system RAM. I tried the windows memory diagnostic utility but `mdsched` was missing from my system. I tried booting memtest86 which supports ARM, seems anything with a BOOTAA64.efi probably works. Memtest86 booted but then wanted me to press a button to start while not accepting any keyboard input. Not sure what was going on there. I tried Ubuntu Server 22.10 ARM from a USB drive and that didn't seem to be recognised as bootable. 
+
+### Graphics related crashing
+My list of working games is shrinking, Halo MCC started crashing on me. It seems 'new' graphics trigger this more quickly than old? Still I get no BSOD or event logs to debug so I don't know where to begin.
