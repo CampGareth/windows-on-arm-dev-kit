@@ -27,3 +27,15 @@ So my system crashes under GPU load and I wondered whether this could be memory 
 
 ### Graphics related crashing
 My list of working games is shrinking, Halo MCC started crashing on me. It seems 'new' graphics trigger this more quickly than old? Still I get no BSOD or event logs to debug so I don't know where to begin.
+
+### Performance
+I ran https://browserbench.org/Speedometer2.1/ across a few machines to give an idea of performance.
+- Volterra, edge, windows, arm64 - 148rpm
+- Volterra, vivaldi, windows, x86 - 33.2rpm
+- Volterra, vivaldi, linux (wsl2), arm64 - 128rpm
+- M1 MBP, firefox, macos, arm64 - 262rpm
+- Surface go 2 (intel pentium 4425Y), vivaldi, linux, x86 - 44.9rpm
+- i5 3570k desktop, chrome, windows, x86 - 122rpm
+- MBP 16" 2019 (2.6Ghz 6 core i7), chrome, macos, x86 - 167rpm
+- Pinebook pro (RK3399), vivaldi, linux, arm64 - 21.6rpm
+- Steam deck, chrome, linux, x86 - 91.3rpm
