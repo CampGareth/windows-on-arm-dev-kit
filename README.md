@@ -52,4 +52,4 @@ Yes yes it's not a gaming PC, but who cares!
 - GTA 4 - 1920x1080, medium-ish settings? - 53fps in benchmark - Got a black screen when loading the story mode :(
 - Zelda Windwaker (Dolphin on ARM) - 4x native resolution - 30-50fps
 
-Not bad at all! Good enough to be irritating when it crashes because you know the hardware's capable of running X.
+Not bad at all! Good enough to be irritating when it crashes because you know the hardware's capable of running X. As if to prove the point the GPU stopped responding while running Dolphin :(
